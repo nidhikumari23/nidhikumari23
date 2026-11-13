@@ -51,22 +51,52 @@
 
 ## 🚀 Featured Projects
 
-### 1. Smart AI Resume Screener & Interview Preparation Portal
-An AI-powered platform designed to analyze resumes, identify missing skills, evaluate ATS compatibility, and assist candidates with interview preparation.
+### 1. 🎪 Metro Nexus Festival OS – AI-Based Event Scheduling & Conflict Resolution
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, AI Integration.
+An AI-powered event management platform designed to streamline festival planning, automate event scheduling, and detect scheduling conflicts to improve resource utilization and coordination.
 
-### 2. CodeSync – Real-Time Coding Interview Platform
-A collaborative coding interview platform focused on real-time communication, problem solving, and code execution.
+**Key Features:**
+- AI-based event scheduling and conflict detection.
+- Event and resource management.
+- Venue and staff coordination.
+- Conflict resolution support.
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Docker.
+🔗 **[Live Demo](https://ai-based-event-scheduling-conflict-trbe.onrender.com)**
 
-[Explore Repository](https://github.com/nidhikumari23/NexCode-Arena)
+**Tech Stack:** MERN Stack, AI Integration.
 
-### 3. ChatSphere – Real-Time Messaging Platform
-A real-time messaging and collaboration application designed to enable interactive communication between users.
+---
 
-**Tech:** MongoDB, Express.js, React.js, Node.js, Socket.IO.
+### 2. 💻 NexCode Arena – Advanced Competitive Coding & Live Interview Management System
+
+A collaborative coding platform designed for competitive programming and technical interviews, providing an interactive environment for coding practice and interview management.
+
+**Key Features:**
+- Online coding and problem-solving environment.
+- Real-time collaborative interview experience.
+- Code execution using Docker.
+- User authentication and submission management.
+
+🔗 **[Live Demo](https://nexcode-arena-frontend.onrender.com)**
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Socket.IO, Docker.
+
+---
+
+### 3. 🤖 FlowForge AI – AI-Powered Workflow Automation Platform
+
+An AI-powered workflow automation platform designed to simplify workflow creation and automate repetitive tasks through intelligent assistance and an intuitive user interface.
+
+**Key Features:**
+- AI-assisted workflow generation.
+- Workflow creation and management.
+- Simplified automation experience.
+- User-friendly interface for managing workflows.
+
+🔗 **[GitHub Repository](https://github.com/nidhikumari23)**
+
+**Tech Stack:** MERN Stack, AI Integration.
+
 
 ---
 
